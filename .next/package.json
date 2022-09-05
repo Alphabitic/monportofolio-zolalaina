@@ -1,1 +1,6 @@
-{"type": "commonjs"}
+{
+  "type": "commonjs",
+  "dependencies": {
+    "nextjs-google-fonts": "^3.4.0"
+  }
+}
