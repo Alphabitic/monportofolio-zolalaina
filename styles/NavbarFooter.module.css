@@ -4,6 +4,7 @@
     Arial,
     sans-serif;
   font-size: 30px;
+  font-weight: 500;
 }
 
 .navbar {
@@ -11,11 +12,13 @@
   width: -webkit-fill-available;
   padding: 0.9rem 5rem 1.3rem 5rem;
   color: #17223b;
+  
 }
 
 .navlinks {
   padding: 0 1.5rem;
   font-size: 15px;
+  font-weight: 500;
 }
 
 .navlinks a {
