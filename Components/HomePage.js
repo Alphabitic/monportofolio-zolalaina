@@ -24,7 +24,7 @@ const HomePage = ({ currentTheme }) => {
                         <h2 className={styles.subheading} style={{ color: currentTheme.subtext }}>{userinfo.greeting.subtitle}</h2>
 
                         <h2 className={styles.subheading} style={{ color: currentTheme.subtext }}>{userinfo.greeting.subtitle2}</h2>
-                        <Link href="#work"><a className={styles.cta1} style={{ background: 'transparent', border: `2px solid ${currentTheme.text}`, color: currentTheme.text }}>{ctaTexts.landingCTA}</a></Link>
+                        <Link href='/Andry.pdf' locale={false} ><a className={styles.cta1} style={{ background: 'transparent', border: `2px solid ${currentTheme.text}`, color: currentTheme.text }}>{ctaTexts.landingCTA}</a></Link>
 
                     </div>
 

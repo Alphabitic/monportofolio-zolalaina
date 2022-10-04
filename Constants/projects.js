@@ -31,11 +31,11 @@ export const projects = [
         photo: [PROJECT2_1, PROJECT2_2, PROJECT2_3],
     },
     {
-        name: 'Social Media',
-        description: "Application conçu avec la technologie MERN, elle intègre toutes les fonctionnalités d'un réseau social",
+        name: 'Job app',
+        description: "Application conçue avec la technologie MERN, elle intègre toutes les fonctionnalités principales CRUD",
         githubLink: '/',
         projectLink: '/',
-        tech: ['Tech1', 'Tech2', 'Tech3'],
+        tech: ['Mongodb', 'React', 'Node', 'express'],
         photo: [PROJECT3_1, PROJECT3_2, PROJECT3_3],
     },
 ]

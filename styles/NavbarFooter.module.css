@@ -9,7 +9,7 @@
 
 .navbar {
   z-index: 5000;
-  width: -webkit-fill-available;
+  width: 100%;
   padding: 0.9rem 5rem 1.3rem 5rem;
   color: #17223b;
   
@@ -64,7 +64,7 @@
 .blockNav {
   display: flex;
   flex-direction: row;
-  width: 320px;
+  width:max-content;
   text-transform: uppercase;
 }
 
