@@ -5,7 +5,7 @@ export const userinfo = {
     logoText: "Herivony", //This text is visible on your navbar and footer like your logo.
     contact: {
         email: 'alphabitic@gmail.com', //It is always a good idea to mention your email on your website. Good platform to communicate.
-        phone: '00261 38 73 999 89', //Phone number is optional, if you dont want it, consider leaving it blank .
+        phone: '38 73 999 89', //Phone number is optional, if you dont want it, consider leaving it blank .
         countrycode: '+261' //It is advisable to add the country code incase you mention your contact number.
     },
     socials: [
