@@ -14,12 +14,6 @@ const Navlinks = () => {
     return (
         <>
             <div className={styles.navlinks}>
-                <Link href='/'><a style={{ opacity: activeLink === '/' || activeLink === '/#work' ? '100%' : '80%' }}>Accueil</a></Link>
-            </div>
-            <div className={styles.navlinks}>
-                <Link href='/#about'><a style={{ opacity: activeLink === '/#about' ? '100%' : '80%' }}>A mon sujet</a></Link>
-            </div>
-            <div className={styles.navlinks}>
                 <Link href='/work'><a style={{ opacity: activeLink === '/work' ? '100%' : '80%' }}>Projets</a></Link>
             </div>
             <div className={styles.navlinks}>
