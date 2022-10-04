@@ -5,7 +5,7 @@ import PROJECT1_3 from '../styles/projects/Project1_3.jpg';
 import PROJECT2_1 from '../styles/projects/Project2_1.jpg';
 import PROJECT2_2 from '../styles/projects/Project2_2.jpg';
 import PROJECT2_3 from '../styles/projects/Project2_3.jpg';
-import PROJECT3_1 from '../styles/projects/Project3_1.jpg';
+import PROJECT3_1 from '../styles/projects/Project3_1.png';
 import PROJECT3_2 from '../styles/projects/Project3_2.jpg';
 import PROJECT3_3 from '../styles/projects/Project3_3.jpg';
 
@@ -18,7 +18,7 @@ export const projects = [
         name: 'Agence immobilière', //project name
         description: "Projet conçu en utilisant le framework Chakra UI, React/Next, RapidAPI pour l'appel API", //project description
         githubLink: '', //github repo link
-        projectLink: 'https://next-immo-alphabitic.vercel.app/', //deployed project link
+        projectLink: 'https://next-immo-alphabitic.vercel.app/property/5457215', //deployed project link
         tech: ['React', 'RapidAPI', 'Chakra UI'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
         photo: [PROJECT1_1, PROJECT1_2, PROJECT1_3], //list of names of images from above imports.
     },
